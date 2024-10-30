@@ -1,0 +1,2 @@
+
+                self.add_contact()
